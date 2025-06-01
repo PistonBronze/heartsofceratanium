@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_portrait_VPP_bronislav"
+		textureFile = "gfx/leaders/VPP/cynovsky.dds"
+	}
+}
