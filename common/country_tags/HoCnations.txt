@@ -1,1 +1,4 @@
 VPP = "countries/Visegrad.txt"
+FNR = "countries/FNR.txt"
+UOF = "countries/UOF.txt"
+WCC = "countries/WCC.txt"

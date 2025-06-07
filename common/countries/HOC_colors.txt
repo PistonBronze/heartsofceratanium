@@ -1,0 +1,16 @@
+VPP = {
+	color = rgb { 193 0 0 }
+	color_ui = rgb { 193 0 0 }
+}
+FNR = {
+	color = rgb { 47 173 186 }
+	color_ui = rgb { 47 173 186 }
+}
+UOF = {
+	color = rgb { 340 0 0 }
+	color_ui = rgb { 255 0 0 }
+}
+WCC = {
+	color = rgb { 166 0 0 }
+	color_ui = rgb { 166 0 0 }
+}
