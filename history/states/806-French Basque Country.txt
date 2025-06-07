@@ -1,10 +1,7 @@
-
-state={
-	id=806
-	name="STATE_806"
+state={ id=806 name="STATE_806"
 
 	history={
-		owner = FRA
+		owner = UOF
 		victory_points = {
 			9710 3 
 		}

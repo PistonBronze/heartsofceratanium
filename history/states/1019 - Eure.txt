@@ -1,0 +1,18 @@
+state={ id=1019 name="STATE_1019"
+	manpower = 601305
+	state_category = city
+	history={ owner = FNR
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = FRA
+		add_core_of = FNR
+	}
+
+	provinces={
+		3534 3549 
+		6547 9507 
+	}
+
+	local_supplies=0.0 
+}

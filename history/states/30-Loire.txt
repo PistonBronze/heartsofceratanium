@@ -1,17 +1,8 @@
-
-state={
-	id=30
-	name="STATE_30"
+state={ id=30 name="STATE_30"
 	manpower = 1388400
-
 	state_category = city
-
-	history={
-		owner = FRA
-		victory_points = {
-			11465 5
-		}
-		
+	history={ owner = ENG
+		victory_points = { 11465 5 }
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
@@ -22,7 +13,8 @@ state={
 	}
 
 	provinces={
-		503 527 3495 3509 3523 9478 9867 11463 11465 11613 11616 
+		503 9867 11465 11613 11616 
+		9631 11600 
 	}
 
 	local_supplies=0.0 

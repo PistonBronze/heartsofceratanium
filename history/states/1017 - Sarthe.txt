@@ -1,0 +1,18 @@
+state={ id=1017 name="STATE_1017"
+	manpower = 388519
+	state_category = city
+	history={
+		owner = FNR
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = FRA
+		add_core_of = FNR
+	}
+
+	provinces={
+		3495 3509 9478 11463 
+	}
+
+	local_supplies=0.0 
+}
