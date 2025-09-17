@@ -1111,9 +1111,8 @@ KUR = {
 	color = rgb { 234 179 30 }
 	color_ui = rgb { 255 153 0 }	
 }
-VPP = {
-	color = rgb { 193 0 0 }
-	color_ui = rgb { 193 0 0 }
+
+WCC = {
+	color = rgb { 111 50 229 }
+	color_ui = rgb { 112 51 230 }
 }
-
-

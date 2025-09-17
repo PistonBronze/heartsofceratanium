@@ -11,7 +11,8 @@ state = {
 
 	history = {
 
-		owner = GER
+		owner = WCC
+		add_core_of = WCC
 		add_core_of = GER
 		add_core_of = WUR
 

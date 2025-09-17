@@ -12,7 +12,8 @@ state = {
 
 	history = {
 
-		owner = AUS
+		owner = WCC
+		add_core_of = WCC
 		add_core_of = AUS
 
 		buildings = {
