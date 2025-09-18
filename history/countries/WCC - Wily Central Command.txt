@@ -1,7 +1,7 @@
-capital = 1019
+capital = 64
 
 #oob = ""
-#recruit_character = 
+#recruit_character = ""
 
 set_research_slots = 3
 # Starting tech

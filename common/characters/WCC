@@ -10,7 +10,6 @@ characters={
             ideology=emperor_scientism
             expire="1965.1.1.1"
             desc = WCC_WILY_DESC
-            id=-1
         }
     }
 }
