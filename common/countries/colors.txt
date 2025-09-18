@@ -1113,6 +1113,6 @@ KUR = {
 }
 
 WCC = {
-	color = rgb { 111 50 229 }
-	color_ui = rgb { 112 51 230 }
+	color = rgb { 15 15 15 }
+	color_ui = rgb { 16 16 16 }
 }

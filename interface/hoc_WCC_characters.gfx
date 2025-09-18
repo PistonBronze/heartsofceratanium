@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_portrait_albert_wily1"
+		texturefile = "gfx/leaders/WCC/portrait_wcc_albert_wily.dds"
+	}
+}

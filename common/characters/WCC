@@ -1,0 +1,16 @@
+characters={
+    WCC_albert_wily = {
+        name=WCC_CHARACTER_DR_WILY
+        portraits={
+            civilian={
+                large="GFX_portrait_albert_wily1"
+            }
+        }
+        country_leader={
+            ideology=emperor_scientism
+            expire="1965.1.1.1"
+            desc = WCC_WILY_DESC
+            id=-1
+        }
+    }
+}
