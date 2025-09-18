@@ -1,6 +1,6 @@
 characters={
     WCC_albert_wily = {
-        name=WCC_CHARACTER_DR_WILY
+        name = WCC_CHARACTER_DR_WILY
         portraits={
             civilian={
                 large="GFX_portrait_albert_wily1"
