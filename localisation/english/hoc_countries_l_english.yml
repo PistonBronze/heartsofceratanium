@@ -1,7 +1,7 @@
 ﻿l_english:
-  #VPP_liberalism: "Visegrad Protection Pact"
-  #VPP_liberalism_DEF: "the Visegrad Protection Pact"
-  #VPP_liberalism_ADJ: "Visegradian"
+  VPP_liberalism: "Visegrad Protection Pact"
+  VPP_liberalism_DEF: "the Visegrad Protection Pact"
+  VPP_liberalism_ADJ: "Visegradian"
   #FNR: "French National Republic"
   #FNR_DEF: "the French National Republic"
   #FNR_ADJ: "National French"
