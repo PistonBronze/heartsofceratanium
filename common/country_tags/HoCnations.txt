@@ -1,1 +1,2 @@
 WCC = "countries/WCC.txt"
+VPP = "countries/VPP.txt"
