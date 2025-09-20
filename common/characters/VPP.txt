@@ -1,0 +1,15 @@
+characters={
+    VPP_visegrad_council = {
+        name = VPP_CHARACTER_COUNCIL
+        portraits={
+            civilian={
+                large="GFX_portrait_visegrad_council"
+            }
+        }
+        country_leader={
+            ideology=liberal_technocracy
+            expire="1965.1.1.1"
+            desc = VPP_COUNCIL_DESC
+        }
+    }
+}

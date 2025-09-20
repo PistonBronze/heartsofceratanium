@@ -22,16 +22,16 @@ set_technology = {
 	fuel_refining = 1
 }
 
-#recruit_character = WCC_albert_wily
+recruit_character = VPP_visegrad_council
 
 set_convoys = 20
 
 set_politics = {
-	ruling_party = despotism
+	ruling_party = liberalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	despotism = 100
+	liberalism = 100
 }

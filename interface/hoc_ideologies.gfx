@@ -7,4 +7,12 @@ spriteTypes = {
 		name = GFX_ideology_emperor_scientism
 		textureFile = gfx/interface/ideologies/emperor_scientism.dds
 	}
+	spriteType = {
+		name = GFX_ideology_liberalism_group
+		textureFile = gfx/interface/ideologies/liberal_technocracy.dds
+	}
+	spriteType = {
+		name = GFX_ideology_liberal_technocracy
+		textureFile = gfx/interface/ideologies/liberal_technocracy.dds
+	}
 }

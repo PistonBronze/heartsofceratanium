@@ -1118,6 +1118,6 @@ WCC = {
 }
 
 VPP = {
-	color = rgb { 255 194 236 }
-	color_ui = rgb { 255 194 236 }
+	color = rgb { 255 56 56 }
+	color_ui = rgb { 255 57 57 }
 }
